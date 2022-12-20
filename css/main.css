@@ -8996,6 +8996,15 @@ label:not(.add-file).visible {
         background-size: cover !important
     }
 
+    .blockchain-plate {
+        height: 540px;
+        padding-top: 50px;
+        text-align: left;
+        background: url(../img/B-chain-mobile.jpg) center no-repeat !important;
+        -webkit-background-size: cover !important;
+        background-size: cover !important
+    }
+
     .hs-1 {
         width: 160%;
         margin: 0 0 80px -30%
