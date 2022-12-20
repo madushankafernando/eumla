@@ -5940,6 +5940,12 @@ body {
     overflow: hidden
 }
 
+.plate.blockchain-plate {
+    background: url(../img/B-chain.jpg) bottom no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover
+}
+
 .plate.data-science-plate {
     background: url(../img/data.jpg) bottom no-repeat;
     -webkit-background-size: cover;
